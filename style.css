@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.left {
+    width: 20%;
+    height: 100%;
+    float: left;
+    background-color: rgb(143, 104, 143);
+}
+.right {
+    width: 80%;
+    height: 100%;
+    float: right;
+    background-color: rgb(206, 206, 206);
+}
+
+.nav-img img {
+    width: 300px;
+    border-radius: 50%;
+    border: 4px solid whitesmoke;
+}
+
+.nav-menu li {
+    list-style-type: none;
+    text-align: center;
+    font: arial;
+    font-size: x-large;
+    margin: 20px 0;
+    text-decoration: none;
+}
+
+.nav-menu li a {
+    text-decoration: none;
+}
+
+.nav-menu li a:hover {
+    color: azure;
+}
+
+#nav-profile {
+    margin-top: 50%;
+}
+
+section.description {
+    margin-left: 25px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.description h1 {
+    font: arial;
+    color: rgb(105, 106, 108);
+    font-size: 40px;
+}
+
+.description ol {
+    font: arial;
+    color: rgb(105, 106, 108);
+    font-size: 20px;
+}
+
+.description h1 > span {
+    color: rgb(143, 104, 143);
+}
+
+.description h2 {
+    color: rgb(143, 104, 143);
+}
+
+.description h3 {
+    font: arial;
+    color: rgb(105, 106, 108);
+    font-size: 20px;
+}
+
+.description h3 > span > a {
+    color: rgb(143, 104, 143);
+    text-decoration: none;
+}
+
+.description p {
+    font: arial;
+    color: rgb(105, 106, 108);
+    font-size: 18px;
+}
+
+.description li {
+    font: arial;
+    color: rgb(105, 106, 108);
+    font-size: 20px;
+}
+
+.description ul {
+   list-style: none;
+}
+
+.icons-social i {
+    font-size: 38px;
+}
