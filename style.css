@@ -27,7 +27,7 @@ body {
     border: 4px solid whitesmoke;
 }
 
-.nav-menu li {
+.nav-menu ul li {
     list-style-type: none;
     text-align: center;
     font: arial;
@@ -36,11 +36,11 @@ body {
     text-decoration: none;
 }
 
-.nav-menu li a {
+.nav-menu ul li a {
     text-decoration: none;
 }
 
-.nav-menu li a:hover {
+.nav-menu ul li a:hover {
     color: azure;
 }
 
@@ -92,14 +92,36 @@ section.description {
     font-size: 18px;
 }
 
-.description li {
+.description ul li {
     font: arial;
     color: rgb(105, 106, 108);
     font-size: 20px;
 }
 
-.description ul {
+section.description01 {
+    margin-left: 25px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.description01 ul {
    list-style: none;
+
+}
+
+.description01 ul li {
+    font: arial;
+    color: rgb(105, 106, 108);
+    font-size: 20px;
+}
+
+.description01 h1 {
+    color: rgb(143, 104, 143);
+}
+
+.description01 h2 {
+    color: rgb(143, 104, 143);
 }
 
 .icons-social i {
