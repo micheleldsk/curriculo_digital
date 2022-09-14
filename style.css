@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -14,6 +14,7 @@ body {
     float: left;
     background-color: rgb(143, 104, 143);
 }
+
 .right {
     width: 80%;
     height: 100%;
@@ -67,7 +68,7 @@ section.description {
     font-size: 20px;
 }
 
-.description h1 > span {
+.description h1>span {
     color: rgb(143, 104, 143);
 }
 
@@ -81,7 +82,7 @@ section.description {
     font-size: 20px;
 }
 
-.description h3 > span > a {
+.description h3>span>a {
     color: rgb(143, 104, 143);
     text-decoration: none;
 }
@@ -106,7 +107,7 @@ section.description01 {
 }
 
 .description01 ul {
-   list-style: none;
+    list-style: none;
 
 }
 
@@ -126,4 +127,5 @@ section.description01 {
 
 .icons-social i {
     font-size: 38px;
+    color: rgb(143, 104, 143);
 }
