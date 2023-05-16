@@ -1,11 +1,11 @@
 # curriculo_digital
 
 <br>
-<img src="https://user-images.githubusercontent.com/102632136/238721042-7d8f72de-9bc8-4501-9739-a3b6360143e1.jpg" alt="Sobre">
+<img src="https://github.com/micheleldsk/curriculo_digital/assets/102632136/4bcc2fac-d179-4fdd-b650-be1e6908c805" alt="Sobre">
 <br>
-<img src="https://user-images.githubusercontent.com/102632136/238721046-da16727c-fc07-497a-9a7a-6b3cae2b6023.jpg" alt="Conhecimentos">
+<img src="https://github.com/micheleldsk/curriculo_digital/assets/102632136/3a703f29-4c78-4750-a919-6c15f1b8597a" alt="Conhecimentos">
 <br>
-<img src="https://user-images.githubusercontent.com/102632136/238721048-724d07da-87f4-4f71-89b2-dd2cad115f70.jpg" alt="Objetivos">
+<img src="https://github.com/micheleldsk/curriculo_digital/assets/102632136/7dba6c2f-d2f4-4781-8cce-2b193d7d5542" alt="Objetivos">
 <br>
 <h2> Habilidades trabalhadas neste projeto </h2>
 <div style="display: inline_block" align="">
